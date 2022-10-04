@@ -1,0 +1,18 @@
+{
+  "id": 1234567143,
+  "category": {
+    "id": 1234567,
+    "name": "Perros"
+  },
+  "name": "Lazy Challenges",
+  "photoUrls": [
+    "www.google.com/lazy.png"
+  ],
+  "tags": [
+    {
+      "id": 1234567890,
+      "name": "Tag_1"
+    }
+  ],
+  "status": "available"
+}
