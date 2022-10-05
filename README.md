@@ -15,11 +15,12 @@ Antes de usar este proyecto, se necesita tener instalado:
  # 🚀Instalar el proyecto
  
 Clonar el repositorio
+
 Si es necesario, instalar las dependencias del proyecto con npm i si es en VS Code y si es en Intellj IDEA desde el marketplace del mismo
 
 # 🚀Ejecute la demostración
 
-Haciendo click en testing, el cual se ubica en la barra lateral izquierda en el VS Code o haciendo click en RUN si si abre con Intellj IDEA
+Haciendo click en testing, el cual se ubica en la barra lateral izquierda en el VS Code o haciendo click en RUN si es abierto con Intellj IDEA
 
 # 👀 Lo que vas a ver a continuación
 El metodo POST agregara una mascota, 
